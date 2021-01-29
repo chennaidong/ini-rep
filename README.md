@@ -1,3 +1,3 @@
 # ini-rep
-initial repository
+al repository
 A test, I changed readme contents on Jan 29. 
